@@ -10,14 +10,14 @@ url: https://RossReisman.github.io  # url should be 'http://<github_username>.gi
 img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
-author:  # change following line to your infomation.
-  name: GitHub  # Be used at blog posts' author.
-  first_name: Hub  # Be used at index page about me section.
-  last_name: Git  # Be used at index page about me section.
+author: Ross Reisman # change following line to your infomation.
+  name: Ross Reisman  # Be used at blog posts' author.
+  first_name: Ross  # Be used at index page about me section.
+  last_name: Resman  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
-  github_username: jarrekk  # Leave blank if you don't have now
-  linkedin_id: jarrekk # Leave blank if you don't have now
-  facebook_username: jiakunnj  # Leave blank if you don't have now
+  github_username: RossReisman  # Leave blank if you don't have now
+  linkedin_id: RossReisman # Leave blank if you don't have now
+  # facebook_username: jiakunnj  # Leave blank if you don't have now
   twitter_username: jiakun614  # Leave blank if you don't have now
   email: me@jarrekk.com  # Leave blank if you don't have now
   cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
