@@ -33,6 +33,6 @@
 
 - id: links
   i18n: nav.link
-  name: Links
+  name: Say Hi!
   tpl: links.html
   css: contact
