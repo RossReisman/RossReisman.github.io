@@ -7,7 +7,7 @@
     detail: General Assembly's "Data Science Immersive" is a 12-week intensive program focusing on the data science workflow, statistical analysis, machine learning algorithms, data modeling and predictive analytics. The program totals over 600 hours of in-class and after hours training focused on coding and data science methodology/best practices.
     i18n: company_a_desc
   date:
-    detail: January 2018 - April 2018
+    detail: January 2018 to April 2018
     i18n: company_a_date
   job:
     detail: Data Science Fellow
@@ -23,9 +23,25 @@
 • Implemented systems to improve efficiency of workflow and increased agents' ability to handle multiple projects.
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: April 2014 to July 2017
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Outbound Sales Representative
     i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Kusmi Tea
+    i18n: company_c
+  desc:
+    detail: 
+•	Received two monthly sales awards.
+•	Responsible for receiving and recording inventory weekly.
+    i18n: company_c_desc
+  date:
+    detail: October 2013 to February 2014
+    i18n: company_c_date
+  job:
+    detail: Seasonal Sales Associate
+    i18n: company_c_job
   icon: fa-plus-square
