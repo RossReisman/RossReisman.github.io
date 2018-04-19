@@ -52,20 +52,20 @@
     detail: December 2012 to October 2013
     i18n: company_d_date
   job:
-    detail: Part Time Staff → Shift Supervisor
+    detail: Part Time Staff &rarr; Shift Supervisor
     i18n: company_d_job
   icon: fa-plus-square
   
   - name:
-    detail: Kusmi Tea
+    detail: Lua Technologies
     i18n: company_e
   desc:
-    detail: Received two monthly sales awards. <br> Responsible for receiving and recording inventory weekly.
+    detail: Ensured fidelity of data. <br> Tested beta stage product and worked closely with teams to provide recommendations on product iterations.
     i18n: company_e_desc
   date:
-    detail: October 2013 to February 2014
+    detail: January 2012 to June 2013
     i18n: company_e_date
   job:
-    detail: Seasonal Sales Associate
+    detail: Data Entry &rarr; Product Tester
     i18n: company_e_job
   icon: fa-plus-square
