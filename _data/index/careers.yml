@@ -2,7 +2,7 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
     detail: General Assembly
-    i18n: General Assembly\'s \"Data Science Immersive\" is a 12-week intensive program focusing on the data science workflow, statistical analysis, machine learning algorithms, data modeling and predictive analytics. The program totals over 600 hours of in-class and after hours training focused on coding and data science methodology/best practices.
+    i18n: General Assembly
   desc:
     detail: I worked at Company A ...
     i18n: company_a_desc
