@@ -7,18 +7,20 @@
     detail: General Assembly's "Data Science Immersive" is a 12-week intensive program focusing on the data science workflow, statistical analysis, machine learning algorithms, data modeling and predictive analytics. The program totals over 600 hours of in-class and after hours training focused on coding and data science methodology/best practices.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: January 2018 - April 2018
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Data Science Fellow
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: H.I.S. International Tours
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: 
+•	Managed client relationships and delivered tailored experiences on tight deadlines while maintaining product integrity.
+• Implemented systems to improve efficiency of workflow and increased agents' ability to handle multiple projects.
     i18n: company_b_desc
   date:
     detail: Jun. 2015
