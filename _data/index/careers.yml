@@ -18,9 +18,7 @@
     detail: H.I.S. International Tours
     i18n: company_b
   desc:
-    detail: 
-Managed client relationships and delivered tailored experiences on tight deadlines while maintaining product integrity.
-Implemented systems to improve efficiency of workflow and increased agents' ability to handle multiple projects.
+    detail: Managed client relationships and delivered tailored experiences on tight deadlines while maintaining product integrity. <br> Implemented systems to improve efficiency of workflow and increased agents' ability to handle multiple projects.
     i18n: company_b_desc
   date:
     detail: April 2014 to July 2017
