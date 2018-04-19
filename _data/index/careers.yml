@@ -56,7 +56,7 @@
     i18n: company_d_job
   icon: fa-plus-square
   
-  - name:
+- name:
     detail: Lua Technologies
     i18n: company_e
   desc:
