@@ -20,7 +20,7 @@
 
 - id: projects
   i18n: nav.projects
-  name: Projects
+  name: Check Out My Recent Projects
   tpl: projects.html
   css: project
 
