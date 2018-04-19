@@ -4,7 +4,7 @@
     detail: General Assembly
     i18n: company_a
   desc:
-    detail: General Assembly's "Data Science Immersive"
+    detail: General Assembly's "Data Science Immersive" is a 12-week intensive program focusing on the data science workflow, statistical analysis, machine learning algorithms, data modeling and predictive analytics. The program totals over 600 hours of in-class and after hours training focused on coding and data science methodology/best practices.
     i18n: company_a_desc
   date:
     detail: Apr. 2016
