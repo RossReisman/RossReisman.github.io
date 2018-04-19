@@ -32,9 +32,7 @@
     detail: Kusmi Tea
     i18n: company_c
   desc:
-    detail: 
-Received two monthly sales awards.
-Responsible for receiving and recording inventory weekly.
+    detail: Received two monthly sales awards. <br> Responsible for receiving and recording inventory weekly.
     i18n: company_c_desc
   date:
     detail: October 2013 to February 2014
