@@ -8,15 +8,16 @@
   img: /static/assets/img/landing/jekyll.png
   desc: A brief analysis of participation and score data for the 2017 SAT and ACT
 
-- name: Python
+- name: Forecasting Liquor Sales
   i18n: cpython
-  gh_user: python
-  repo: cpython
+  gh_user: RossReisman
+  repo: Liquor-Sales-Forecast
   img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: A forecast of annual income based on past sales data
 
-- name: Google
+- name: Web Scraping and Classification
   i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  gh_user: RossReisman
+  repo: Web-Scraping-And-Classifying-Reddit-Posts
+  img: /static/assets/img/landing/python.png
+  desc: A project that involves web scraping and classifying Reddit posts
